@@ -7,8 +7,9 @@
 
 <p align="center">
     Ecos do Além: Histórias de Lendas Urbanas 
-:musical_note:[EP.01 - A MULHER DO POÇO]
 </p>
+
+EP.01 - A MULHER DO POÇO src="./assets/ep_01_a_mulher_do_poço.mp3"
 
 ## 💻 Tecnologias utilizadas no projeto
 
