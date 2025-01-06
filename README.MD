@@ -9,7 +9,7 @@
     Ecos do Além: Histórias de Lendas Urbanas 
 </p>
 
-EP.01 - A MULHER DO POÇO <a href="./assets/ep_01_a_mulher_do_poço.mp3">Flex Grid</a>
+<a href="./assets/ep_01_a_mulher_do_poço.mp3">EP.01-A MULHER DO POÇO</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
