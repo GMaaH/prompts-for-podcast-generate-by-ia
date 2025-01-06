@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Ecos do Além: Histórias de Lendas Urbanas
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [LeonardoAI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [AdobePremiere]
+- AdobePremiere
 
 ## ✨ Como foi feito ?
 
