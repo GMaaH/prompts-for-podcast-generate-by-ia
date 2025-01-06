@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-    Ecos do Além: Histórias de Lendas Urbanas <audio src="assets/ep_01_a_mulher_do_poço.mp3" controls title="Podcast editado"></audio>
+    Ecos do Além: Histórias de Lendas Urbanas 
+<src="assets/ep_01_a_mulher_do_poço.mp3">
 </p>
 
 ## 💻 Tecnologias utilizadas no projeto
